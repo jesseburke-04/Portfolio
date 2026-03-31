@@ -37,7 +37,7 @@ nav {
     position: relative;
     padding: 0px 50px;
     height: 80px;
-    background-color: var(--link-color);
+    background-color: var(--text-color);
 }
 
 nav .left i {
